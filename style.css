@@ -1,0 +1,98 @@
+body
+{
+	background-color: #4D3119;
+	background-image: url(img/bg.jpg);
+	color: white;
+	padding: 20px;
+	font-family: Arial;
+}
+h1
+{
+	color: white;
+}
+table
+{
+	margin-left: 450px;
+	color: black;
+	border: 15px solid #000000;
+	background-color: #665044;
+	border-collapse: collapse;
+}
+.none
+{
+	background-color: black;
+	border: none;
+}
+td
+{
+	/*background-color: #997C51; */
+	vertical-align: middle;
+	text-align: center;
+	width: 31px;
+	height: 31px;
+	border: 2px solid black;
+}
+.verif
+{
+	border: 2px solid #000000;
+	background-color: #574237;
+	border-collapse: collapse;
+}
+#window
+{
+	background-color: #1C2F4B;
+	background-image: url(img/neige.gif);
+	position: absolute;
+	width: 257px;
+	height: 246px;
+	margin-top: -380px;
+	margin-left: 800px;
+}
+#candle
+{
+	position: absolute;
+	margin-top: -350px;
+}
+#deco
+{
+	position: absolute;
+	background: black;
+	color: white;
+}
+#reco
+{
+	position: absolute;
+	background: black;
+	color: white;
+	margin-top: 30px;
+}
+.present
+{
+	background-color: none;
+}
+.choix
+{
+	margin-left: 570px;
+}
+.droppable
+{
+	background: #8c413b;
+}
+.draggable
+{
+	background: #295c2c;
+}
+.submit
+{
+	border: none;
+	background-color: black;
+	color: white;
+}
+#resultat
+{
+	position: absolute;
+	margin-left: 550px;
+	background-color: black;
+	text-align: center;
+	vertical-align: center;
+}
